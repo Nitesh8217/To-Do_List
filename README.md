@@ -6,3 +6,5 @@ Features :
 3. Remove/Delete : We can delete or remove the exiting tasks.
 
 Build by VS code editor using HTML, CSS and JavaScript. This project is ideal for understanding CRUD operations and enhancing productivity.
+
+Note : Video on demonstarting how To-Do_list web application work is added. Please click on View Raw to download the video.
